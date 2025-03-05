@@ -5,13 +5,14 @@ This project consists of a frontend built using React.js and a backend powered b
 
 ### Frontend Setup
 1. Clone the frontend repository:
+2. 
      git clone [Frontend Repo URL]
-     cd frontend
-2. Install dependencies:
+     cd Clarivae_frontend
+3. Install dependencies:
 
      npm install
    
-3. Start the development server:
+4. Start the development server:
   
      npm start
    
